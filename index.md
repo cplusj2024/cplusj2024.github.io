@@ -1,6 +1,6 @@
-This website serves as the informal Proceedings for the Computation + Journalism Symposium 2024,held at Northeastern University in Boston, MA, USA on October 26 - 27, 2024.
+This website serves as the informal Proceedings of the Computation + Journalism Symposium 2024.The Symposium was held at Northeastern University in Boston, MA, USA on October 26 - 27, 2024.
 
-The final program of the conference can be found <a href="https://idi.provost.northeastern.edu/wp-content/uploads/2024/10/CJ-Agenda-Final.pdf">here</a>.
+The final program can be found <a href="https://idi.provost.northeastern.edu/wp-content/uploads/2024/10/CJ-Agenda-Final.pdf">here</a>.
 
 ## Accepted contributions
 
